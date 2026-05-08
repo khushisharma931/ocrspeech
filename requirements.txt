@@ -1,0 +1,5 @@
+streamlit
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-speech
+msrest
+pydub
